@@ -47,7 +47,7 @@ class Lockscreen extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.center,
               crossAxisAlignment: CrossAxisAlignment.center,
               children: [
-                Expanded(child: _buildButton1()),
+                //Expanded(child: _buildButton1()),
                 Icon(Icons.lock,size: 60.0,color: Colors.indigo),
                 Padding(
                   padding: const EdgeInsets.only(top: 10.0,bottom: 70.0),
