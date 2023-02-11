@@ -1,8 +1,8 @@
 // ignore_for_file: prefer_const_constructors
 import 'package:flutter/material.dart';
 
-class GamePage extends StatelessWidget {
-  const GamePage({Key? key}) : super(key: key);
+class Lockscreen extends StatelessWidget {
+  const Lockscreen({Key? key}) : super(key: key);
 
  // สี่เหลี่ยมมุมโค้ง มี border
   Widget _buildButton1() {
