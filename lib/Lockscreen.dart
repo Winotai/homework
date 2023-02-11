@@ -12,7 +12,6 @@ class Lockscreen extends StatelessWidget {
         width: 200.0,
         height: 105.0,
         decoration: BoxDecoration(
-          //color: Colors.yellow,
           border: Border.all(color: Colors.red, width: 2.0),
           borderRadius: BorderRadius.circular(10.0),
         ),
@@ -29,7 +28,6 @@ class Lockscreen extends StatelessWidget {
         height: 50.0,
         child: Center(child: Text('1')),
         decoration: BoxDecoration(
-          //color: Colors.white,
           shape: BoxShape.circle,
           border: Border.all(color: Colors.black38, width: 1.0),
         ),
@@ -44,7 +42,6 @@ class Lockscreen extends StatelessWidget {
         height: 50.0,
         child: Center(child: Text('2')),
         decoration: BoxDecoration(
-          //color: Colors.white,
           shape: BoxShape.circle,
           border: Border.all(color: Colors.black38, width: 1.0),
         ),
@@ -59,7 +56,6 @@ class Lockscreen extends StatelessWidget {
         height: 50.0,
         child: Center(child: Text('3')),
         decoration: BoxDecoration(
-          //color: Colors.white,
           shape: BoxShape.circle,
           border: Border.all(color: Colors.black38, width: 1.0),
         ),
@@ -74,7 +70,6 @@ class Lockscreen extends StatelessWidget {
         height: 50.0,
         child: Center(child: Text('4')),
         decoration: BoxDecoration(
-          //color: Colors.white,
           shape: BoxShape.circle,
           border: Border.all(color: Colors.black38, width: 1.0),
         ),
@@ -89,7 +84,6 @@ class Lockscreen extends StatelessWidget {
         height: 50.0,
         child: Center(child: Text('5')),
         decoration: BoxDecoration(
-          //color: Colors.white,
           shape: BoxShape.circle,
           border: Border.all(color: Colors.black38, width: 1.0),
         ),
@@ -104,7 +98,6 @@ class Lockscreen extends StatelessWidget {
         height: 50.0,
         child: Center(child: Text('6')),
         decoration: BoxDecoration(
-          //color: Colors.white,
           shape: BoxShape.circle,
           border: Border.all(color: Colors.black38, width: 1.0),
         ),
@@ -119,7 +112,6 @@ class Lockscreen extends StatelessWidget {
         height: 50.0,
         child: Center(child: Text('7')),
         decoration: BoxDecoration(
-          //color: Colors.white,
           shape: BoxShape.circle,
           border: Border.all(color: Colors.black38, width: 1.0),
         ),
@@ -134,7 +126,6 @@ class Lockscreen extends StatelessWidget {
         height: 50.0,
         child: Center(child: Text('8')),
         decoration: BoxDecoration(
-          //color: Colors.white,
           shape: BoxShape.circle,
           border: Border.all(color: Colors.black38, width: 1.0),
         ),
@@ -149,7 +140,6 @@ class Lockscreen extends StatelessWidget {
         height: 50.0,
         child: Center(child: Text('9')),
         decoration: BoxDecoration(
-          //color: Colors.white,
           shape: BoxShape.circle,
           border: Border.all(color: Colors.black38, width: 1.0),
         ),
@@ -173,7 +163,6 @@ class Lockscreen extends StatelessWidget {
         height: 50.0,
         child: Center(child: Text('0')),
         decoration: BoxDecoration(
-          //color: Colors.white,
           shape: BoxShape.circle,
           border: Border.all(color: Colors.black38, width: 1.0),
         ),
